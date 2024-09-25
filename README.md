@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ChatwithPDF.git
+git clone https://github.com/aryanmore325/ChatwithPDF.git
 ```
 
 2. Install the required dependencies:
